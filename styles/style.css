@@ -1,0 +1,194 @@
+html{
+    background-color: lightgrey;
+}
+
+body header{
+    background-color: forestgreen;
+    border: 5px solid white;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 5px;
+    height: 4em;
+}
+
+nav{
+    background-color: forestgreen;
+    padding: 5px;
+	border: 5px solid white;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 5px;
+}
+
+nav ul{
+    text-align: center;
+    font-size: 1.2em;
+}
+
+nav ul li{
+    list-style-type: none;
+    background-color: lightgrey;
+    display: inline;
+    padding: 15px;
+    margin: 5px;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+
+nav ul li a{
+    color: black;
+    text-decoration: none;
+}
+
+nav ul li:hover{
+    background-color: skyblue;
+}
+
+#mainStory {
+    background-color: forestgreen;
+    width: 50%;
+    height: 26.35em;
+    border: 5px solid white;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+    float: left;
+}
+
+#mainStory a{
+    padding-left: 5px;
+    text-decoration: none;
+    list-style-type: none;
+    color: lightgrey;
+    text-align: left;
+}
+
+#redbull {
+    border: 2px solid white;
+    border-radius: 10px;
+    width: 98%;
+    height: 80%;
+}
+
+h1{
+    font-size: 50px;
+    margin-top: 4px;
+    margin-left: 55px;
+}
+
+h2{
+    font-size: 25px;
+    margin: 5px;
+}
+
+h3{
+    padding: 2px;
+    margin: 2px;
+    font-size: 20px;
+}
+
+p{
+    font-size: 15px;
+    margin: 5px
+}
+
+aside{
+    float: right;
+}
+
+#football {
+    background-color: forestgreen;
+    width: 21%;
+    height: 14em;
+    border: 5px solid white;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+    float: right
+}
+
+#football a{
+    text-decoration: none;
+    list-style-type: none;
+    color: lightgrey;
+    text-align: left;
+    margin: 5px;
+}
+
+#arsenal {
+    border: 2px solid white;
+    border-radius: 10px;
+    width: 95%;
+    height: 65%;
+}
+
+#boxing {
+    background-color: forestgreen;
+    width: 19%;
+    height: 14em;
+    border: 5px solid white;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+    float: right
+}
+
+#boxing a{
+    text-decoration: none;
+    list-style-type: none;
+    color: lightgrey;
+    text-align: left;
+    margin: 5px;
+}
+
+#fury {
+    border: 2px solid white;
+    border-radius: 10px;
+    width: 95%;;
+    height: 65%;
+}
+
+#rugby {
+    background-color: forestgreen;
+    width: 42%;
+    height: 10.5em;
+    border: 5px solid white;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+    float: right
+}
+
+#rugby a{
+    text-decoration: none;
+    list-style-type: none;
+    color: lightgrey;
+    text-align: left;
+    margin: 5px;
+}
+
+#scotland {
+    float: right;
+    border: 2px solid white;
+    border-radius: 10px;
+    width: 50%;
+    height:95%;
+}
+
+.gototop {
+    text-decoration: none;
+    list-style-type: none;
+    color: black;
+    text-align: center;
+    margin: 5px;
+}
+
+footer{
+    color: black;
+    text-align: center;
+    background-color: forestgreen;
+    border: 5px solid white;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 28.8em;
+}
